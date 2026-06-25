@@ -2,6 +2,7 @@ import model.Produto;
 
 public class Loja {
     public static void main (String[] args){
+
         Produto produto1 = new Produto("Tênis Nike", 299.99, 90, "42");
         Produto produto2 = new Produto("Camisa do Flamengo", 759.99, 14, "g");
 
