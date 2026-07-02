@@ -31,7 +31,7 @@ public class Caneta {
     }
 
     public void setPonta(double ponta) {
-        if
+
         this.ponta = ponta;
     }
 
